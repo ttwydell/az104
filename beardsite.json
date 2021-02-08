@@ -40,8 +40,8 @@
         }
     },
     "variables": {
-        "backendserver": "backend2"
-        "nicname": "backend2nic"
+        "backendserver": "backend2",
+        "nicname": "backend2nic",
         "backendpip": "backendpip"
     },
     "resources": [
